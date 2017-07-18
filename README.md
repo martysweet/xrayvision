@@ -1,6 +1,10 @@
 # xrayvision
 Utilities and wrappers for using [AWS X-Ray](https://aws.amazon.com/xray/) with Python
 
+## Pip Installation
+This package can be installed by adding the following to your requirements.txt file:
+`https://github.com/martysweet/xrayvision/archive/master.zip`
+
 ## WSGI Apps
 
 Simply add the middleware to your app. For example, if you use Flask:
